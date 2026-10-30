@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kanezumi",
  "yomi": "みなもとのかねずみしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "源兼澄",
+  "desc": "源兼澄の家集。11歳のとき父とともに陸奥へ下った思い出に始まり、贈答の歌を多く収める。奥書に、ほかの本が無く校合できなかったとある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1281,6 +1286,6 @@
   "poems": 109,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
